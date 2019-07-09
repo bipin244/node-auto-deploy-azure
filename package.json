@@ -1,0 +1,19 @@
+{
+  "name": "node-auto-deploy-azure",
+  "version": "1.0.0",
+  "description": "Node app auto deploy on azure",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
